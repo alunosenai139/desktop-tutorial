@@ -44,3 +44,17 @@ select:focus {
 outline: none;
 border: 2px solid;
 }
+.hero-text {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 30px;
+    border-radius: 15px;
+    width: fit-content;
+}
+
+.hero-text h1 {
+    color: #008cff;
+}
+
+.hero-text p {
+    color: #4db8ff;
+}
